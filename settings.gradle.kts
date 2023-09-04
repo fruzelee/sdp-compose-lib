@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "SDP Compose Library"
 include(":app")
- 
+include(":sdpcomposelib")
